@@ -7,7 +7,7 @@ public class DaysInAMonth {
     Scanner input = new Scanner(System.in);
 
 //Input Month and Year
-//Imput has to be Integers 
+//Input has to be Integers 
     System.out.print("Enter a Month: ");
     int month = input.nextInt();
     System.out.print("Enter the Year: ");
